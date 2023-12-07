@@ -1,16 +1,18 @@
-### Hi there 👋
+## Hey there! 👋
+I'm Didac, a 20-year-old self-taught software developer.
 
-<!--
-**didacdelolmo/didacdelolmo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Technology has always been a passion of mine since childhood. Throughout my journey, I've specialized in developing and maintaining software for Minecraft networks while also delivering fast and modern websites for clients worldwide.
 
-Here are some ideas to get you started:
+If you'd like to take a look at my work, you can find my portfolio at [didacdelolmo.com](https://didacdelolmo.com), where I showcase the projects I've been involved in.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Skills
+- PHP, Java, JavaScript/TypeScript
+- HTML, CSS, Tailwind, Bootstrap
+- Angular, React, Vue, Laravel, Spring Boot, Node.js
+- MySQL, PostgreSQL, MongoDB and more
+- UI/UX design, Web design, Figma
+
+## Contact
+- <u>[X/Twitter](https://twitter.com/didacdelolmo/)</u>
+- <u>[LinkedIn](https://www.linkedin.com/in/didacdelolmo/)</u>
+- delolmodidac@gmail.com
