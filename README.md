@@ -1,4 +1,4 @@
-## Hello there 👋!
+## Hello there 👋
 I'm Didac, a self-taught Software Developer from Spain with a passion for web design.
 
 Throughout my journey, I've spent over 5 years working with startups and clients worldwide to provide software to satisfy their needs. 
